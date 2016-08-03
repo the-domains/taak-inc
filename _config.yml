@@ -1,0 +1,14 @@
+layout_spectrum: 0.9784946
+color:
+  saturation: 0.3333333
+  lightness: 0.3691756
+  brandStrength: 0.4318996
+  brandColors:
+    - '#FFFA9C'
+    - '#65617A'
+    - '#03000B'
+    - '#69CEBC'
+    - '#B7AA5C'
+  rhythmicContrast: 0.9290248
+typography_spectrum: 0.1164875
+name: Taak Inc
