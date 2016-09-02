@@ -1,14 +1,26 @@
-layout_spectrum: 0.9784946
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3333333
-  lightness: 0.3691756
   brandStrength: 0.4318996
+  rhythmicContrast: 0.9290248
   brandColors:
     - '#FFFA9C'
     - '#65617A'
     - '#03000B'
     - '#69CEBC'
     - '#B7AA5C'
-  rhythmicContrast: 0.9290248
-typography_spectrum: 0.1164875
+  lightness: 0.3691756
+typography_spectrum: 0.8996416
+layout_spectrum: 0.437276
 name: Taak Inc
